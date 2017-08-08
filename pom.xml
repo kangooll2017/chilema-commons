@@ -8,7 +8,7 @@
 		<groupId>com.chilema.item</groupId>
 		<artifactId>chilema-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-	</parent>
+	</parent> 
 
 	<!-- 导入公共依赖的一些包 -->
 	<dependencies>

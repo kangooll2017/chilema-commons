@@ -12,13 +12,11 @@
 
 	<!-- 导入公共依赖的一些包 -->
 	<dependencies>
-
-		<!-- httpclient -->
+		<!-- httpclient 依赖 -->
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
 		</dependency>
-
 		<!-- 公共依赖 -->
 		<dependency>
 			<groupId>commons-io</groupId>

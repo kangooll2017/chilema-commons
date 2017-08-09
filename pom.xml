@@ -10,7 +10,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent> 
 
-	<!-- 导入公共依赖的一些包 -->
+	<!-- 导入公共依赖的jar包-->
 	<dependencies>
 		<!-- httpclient 依赖 -->
 		<dependency>

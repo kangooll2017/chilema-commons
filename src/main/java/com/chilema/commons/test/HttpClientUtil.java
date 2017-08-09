@@ -48,7 +48,6 @@ public class HttpClientUtil {
         init();  
         return HttpClients.custom().setConnectionManager(cm).build();  
     }  
-  
     /** 
      *  
      * @param url 
